@@ -38,7 +38,8 @@ Now what?  Well, things get stale and maps die, that's what.
 
 
 ### Start With a New Google Spreadsheet
-* Make a copy of the [base spreadsheet template](https://docs.google.com/spreadsheets/d/10eNXFh6mzFtii7B2PW90jmHtrQLJlRCrf3kkHU0HIH8/edit?usp=sharing) (File -> Make a Copy)
+* Make a copy of the [base spreadsheet template](https://docs.google.com/
+* /d/10eNXFh6mzFtii7B2PW90jmHtrQLJlRCrf3kkHU0HIH8/edit?usp=sharing) (File -> Make a Copy)
 * Rename your copy and start adding real "point" data, including geographic coordinates (longitude, latitude) and other properties
 
 ### Publish Your Google Spreadsheet
